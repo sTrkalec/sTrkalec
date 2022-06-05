@@ -35,5 +35,5 @@
 
 
 
-  ![](https://komarev.com/ghpvc/?username=sTrkalec&label=📈+You+are+visitor+number&color=green)
+  ![](https://komarev.com/ghpvc/?username=sTrkalec&label=📈+You+are+visitor+number&color=blueviolet)
 </div>
