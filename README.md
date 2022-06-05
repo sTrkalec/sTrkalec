@@ -25,16 +25,19 @@
 <div align="center"> 
   <a href="https://www.linkedin.com/in/strkalec/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/strkalec/strkalec/blob/output/github-contribution-grid-snake.svg)
+  <br>
+
+   ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12171663165&cover_image=true&theme=default)
   
- 
-</div>
+ </div>
 
 <div align="center">
 <br>
   
 
-  ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12171663165&cover_image=true&theme=default)
-  
+ ![Snake animation](https://github.com/strkalec/strkalec/blob/output/github-contribution-grid-snake.svg)
+
+  <br>
+
   ![](https://komarev.com/ghpvc/?username=sTrkalec&label=📈+You+are+visitor+number&color=blueviolet)
 </div>
