@@ -29,7 +29,7 @@
  <br>
  <br>
  
-   ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12171663165&cover_image=true&theme=default)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12171663165&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12171663165&redirect=true)
   
  </div>
 
